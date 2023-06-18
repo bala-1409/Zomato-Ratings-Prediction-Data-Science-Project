@@ -17,4 +17,5 @@ Based on the analysis of the Zomato dataset, the following findings can be deriv
 2. Online Services: Restaurants offering online delivery and table booking tend to have higher ratings, indicating the importance of convenience and accessibility in customer satisfaction.
 3. Positive Customer Engagement: The dataset showcases active customer engagement through votes and reviews, highlighting the significance of customer opinions in determining restaurant success.
 4. Differentiation Factors: Unique and innovative dining experiences, along with excellent service and quality food, contribute to higher ratings and customer satisfaction.
+
 These findings provide valuable insights for restaurant owners, investors, and industry professionals to make informed decisions, improve customer experiences, and drive business growth.
