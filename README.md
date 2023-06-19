@@ -1,6 +1,5 @@
 # Zomato-Ratings-Prediction-Data-Science-Project
 The Zomato Rating Prediction project aims to develop a Machine Learning based system for the prediction of rating for the restaurants
-## Dataset [Google Drive](https://drive.google.com/drive/folders/1pyiIVIuWQH3WPCkqGOPe2bj2aDZqvARg?usp=drive_link)
 ## Observation:
 1. Cuisine Diversity: The dataset showcases a diverse range of cuisines offered by restaurants, highlighting the multicultural nature of dining options available in different cities.
 2. Online Delivery and Table Booking: The presence of attributes like online delivery and table booking indicates the increasing trend of convenience in the restaurant industry.
